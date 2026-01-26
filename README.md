@@ -155,5 +155,6 @@ Developed as part of an educational project on computer architecture and process
 
 This project is provided for educational purposes only. Please respect the intellectual property rights of the Motorola 6809.
 
-<img width="1062" height="576" alt="image" src="https://github.com/user-attachments/assets/5f091903-78c7-4729-9428-93fcc2940aaf" />
+<img width="966" height="517" alt="image" src="https://github.com/user-attachments/assets/1875fb2f-3ff5-4550-a1af-05b8ff95ba5e" />
+
 
