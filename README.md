@@ -4,6 +4,10 @@
 
 This project is a complete simulator of the Motorola 6809 microprocessor, developed in Java with a Swing-based graphical interface. It allows users to write, compile, and execute assembly code for the 6809 processor, offering both step-by-step debugging and full program execution.
 
+
+## Screenshot of the project:
+<img width="966" height="517" alt="image" src="https://github.com/user-attachments/assets/1875fb2f-3ff5-4550-a1af-05b8ff95ba5e" />
+
 ## Main Features
 
 ### Graphical Interface
@@ -155,6 +159,6 @@ Developed as part of an educational project on computer architecture and process
 
 This project is provided for educational purposes only. Please respect the intellectual property rights of the Motorola 6809.
 
-<img width="966" height="517" alt="image" src="https://github.com/user-attachments/assets/1875fb2f-3ff5-4550-a1af-05b8ff95ba5e" />
+
 
 
